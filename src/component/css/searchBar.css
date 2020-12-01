@@ -1,0 +1,10 @@
+.elementStyle {
+  border: solid;
+  border-radius: 10px;
+  position: relative;
+  left: 10vh;
+  height: 3vh;
+  width: 20vh;
+  margin-top: 5vh;
+  margin-bottom: 10vh;
+}
